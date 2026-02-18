@@ -182,6 +182,11 @@ const works = [
         margin-left: 10px;
         margin-right: 10px;
         }
+    .tag {
+        padding: 4px 7px;
+        border-radius: 20px;
+        font-size: 1.1rem;
+    }
         
     }
 

@@ -100,10 +100,14 @@ p {
     font-size: 15px;
   }
 }
-@media (max-width:360px) {
+@media (max-width:390px) {
   body {
     font-family: 'Zen Maru Gothic', system-ui, -apple-system, 'Segoe UI', sans-serif;
   }
+  .title-sub {
+  font-size: 1.5rem;
+
+}
 }
 
 
