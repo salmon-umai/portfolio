@@ -1,5 +1,19 @@
-# Vue 3 + Vite
+## portfolio
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## ポートフォリオサイト
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+### 概要
+自身の経歴や制作物をまとめたポートフォリオサイトです。 趣味であるゲームの要素を取り入れ、海の中をイメージしたデザインで制作しました。
+
+### 使用技術
+- HTML / CSS / JavaScript
+- Vue.js
+
+### 工夫した点
+- Vue.jsによるコンポーネント設計
+- CSS変数を用いたテーマ切り替え
+- アイコンの動的制御
+
+### 動作確認
+- ローカルサーバー
+- サーバーにアップロードしての動作確認
