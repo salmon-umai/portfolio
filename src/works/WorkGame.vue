@@ -160,7 +160,7 @@ const ModalImages = [
                 <ul>
                   <li>設計：1日</li>
                   <li>API連携実装：3日</li>
-                  <li>検索条件実装・仕上げ：2～3日</li>
+                  <li>検索条件実装/調整：2～3日</li>
                 </ul>
                 </P>
               </div>

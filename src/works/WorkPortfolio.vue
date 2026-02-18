@@ -101,7 +101,8 @@ const ModalImages = [
                   rel="noopener noreferrer"><span id="project">　　サイトを見る　</span></a>
               </div>
               <div class="button">
-                <a href="#"><span id="github">　　Github　</span></a>
+                <a href="https://github.com/salmon-umai/portfolio"target="_blank"
+                  rel="noopener noreferrer"><span id="github">　　Github　</span></a>
               </div>
             </div>
           </div>
