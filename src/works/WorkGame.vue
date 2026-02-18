@@ -100,7 +100,7 @@ const ModalImages = [
                     id="project">　　サイトを見る　</span></a>
               </div>
               <div class="button">
-                <a href="https://github.com/salmon-umai/game_search" target="_blank" rel="noopener"><span id="github">　　Github　</span></a>
+                <a href="https://github.com/salmon-umai/game-search" target="_blank" rel="noopener"><span id="github">　　Github　</span></a>
               </div>
             </div>
           </div>

@@ -90,7 +90,7 @@ const thumbImages = [
 
               </div>
               <div class="button">
-                <a href="https://github.com/salmon-umai/postcode_search"
+                <a href="https://github.com/salmon-umai/postcode-search"
                   target="_blank"
                   rel="noopener noreferrer"
                 ><span id="github">　　Github　</span></a>
