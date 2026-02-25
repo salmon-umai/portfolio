@@ -165,14 +165,12 @@ const ModalImages = [
                 </P>
               </div>
             </div>
-
             <div class="desc">
               <h3 class="desc-title">使用言語・技術</h3>
               <div class="desc-card">
                 <P class="desc-sub">HTML / CSS / JavaScript / Vue.js / RAWG API/ Figma </P>
               </div>
             </div>
-
           </div>
         </div>
       </WorkCard>

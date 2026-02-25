@@ -265,4 +265,10 @@ list-style-type: circle;
     margin: 0 auto;
 }
 }
+
+@media (max-width: 390px) {
+    .skill-text {
+        font-size: 0.9rem;
+    }
+}
 </style>

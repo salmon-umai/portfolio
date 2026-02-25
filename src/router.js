@@ -4,7 +4,7 @@ import HomeView from './section/HomeView.vue';
 import Work1 from './works/WorkPortfolio.vue';
 import Work2 from './works/WorkTask.vue';
 import Work3 from './works/WorkGame.vue';
-import Work4 from './works/WorkPostCode.vue/';
+import Work4 from './works/WorkPostCode.vue';
 
 
 const router = createRouter({

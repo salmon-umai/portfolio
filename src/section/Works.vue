@@ -175,7 +175,6 @@ const works = [
         margin-left: 40px;
         margin-right: 40px;
         }
-        
     }    
     @media (max-width: 390px) {
     .works-grid {
