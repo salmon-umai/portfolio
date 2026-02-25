@@ -98,5 +98,10 @@ body.is-dark .theme-btn img {
   transform: rotate(30deg);
 }
 
+@media (max-width: 390px) {
+    .header {
+        right: 10px;
+    }
+}
 
 </style>
