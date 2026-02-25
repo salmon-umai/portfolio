@@ -183,10 +183,9 @@ const works = [
         }
     .tag {
         padding: 4px 7px;
-        border-radius: 20px;
-        font-size: 1.1rem;
+        border-radius: 10px;
+        font-size: 0.9rem;
     }
-        
     }
 
 </style>
