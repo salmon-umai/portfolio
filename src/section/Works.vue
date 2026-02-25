@@ -183,8 +183,8 @@ const works = [
         }
     .tag {
         padding: 4px 7px;
-        border-radius: 10px;
-        font-size: 0.9rem;
+        border-radius: 20px;
+        font-size: 1.1rem;
     }
     }
 

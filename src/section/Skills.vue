@@ -268,8 +268,8 @@ list-style-type: circle;
 
 @media (max-width: 390px) {
     .skill-text {
-        font-size: 0.9rem;
-        margin-left: 20px;
+        font-size: 0.8rem;
+        margin-left: 10px;
     }
 }
 </style>
