@@ -156,7 +156,7 @@ const ModalImages = [
               <h3 class="desc-title">製作期間</h3>
               <div class="desc-card">
                 <P class="desc-sub">
-                <p class="period">約1週間</p>
+                <p class="period">約1週間(2026年2月制作)</p>
                 <ul>
                   <li>設計：1日</li>
                   <li>API連携実装：3日</li>
@@ -294,6 +294,10 @@ h2 {
 
 .skill {
   padding-left: 0;
+}
+
+.skill li {
+  margin-bottom: 10px;
 }
 
 .skill-main {

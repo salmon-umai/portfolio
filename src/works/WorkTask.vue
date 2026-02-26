@@ -140,7 +140,7 @@ const ModalRDD = [
               優先度を視覚的に把握できるようにすることを目的に、
               カテゴリごとに項目管理、テーマカラーの設定・編集、カレンダー表示などの機能を実装しました。
               </p>
-              <p class="desc-sub">
+              <p class="desc-sub red">
                 ※本アプリ（デモ環境）は、Render（無料プラン）にデプロイしいるため、初回ログイン時に時間がかかる場合があります。
               </P>
             <button class="modal-img" @click="openDesign = true">
@@ -216,10 +216,22 @@ const ModalRDD = [
             </div>
           </div>
           <div class="desc">
+            <h3 class="desc-title">課題</h3>
+            <div class="desc-card">
+              <P class="desc-sub">
+                　カレンダー表示中にカテゴリを切り替えた場合、リストボタンを押すまで項目が表示されない挙動があります。
+                カテゴリをクリックしただけでもリスト表示に切り替わる構成へ改善したいと考えています。<br>
+                　また、サイドバーを設計したためコンポーネント間のデータの受け渡しが増え、構成が複雑になりました。
+                状態管理の整理やコンポーネントの責務をより明確に分ける設計を検討します。
+              </P>
+            </div>
+          </div>
+
+          <div class="desc">
             <h3 class="desc-title">製作期間</h3>
             <div class="desc-card">
               <P class="desc-sub">
-                <p class="period">約2カ月</p>
+                <p class="period">約2.5カ月(2025年11月～2026年1月制作)</p>
                 <ul class="period-ul">
                   <li>・要件整理/機能の検討(画面遷移図、ER図、デザインラフ)：7日程度</li>
                   <li>・デザインラフ作成(Figma)：3日程度</li>
@@ -354,7 +366,9 @@ h2 {
   font-size: 1.3rem;
   line-height: 1.6;
 }
-
+.red {
+  color: #fc4343;
+}
 .skill {
     padding-left: 0;
 }
@@ -454,7 +468,7 @@ h2 {
 }
 
 .skill li {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 body {
