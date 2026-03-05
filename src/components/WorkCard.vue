@@ -74,12 +74,13 @@ import { RouterLink } from 'vue-router';
   color: var(--color-sub2);
 }
 
-@media (max-width:990px) {
+@media (max-width:1024px) {
     .section-title {
     margin-right: 0;
   }
   .button006 a {
-    margin-right: 20px;
+    margin-right: 10px;
+    margin-left: 20px;
   }
 }
 

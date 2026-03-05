@@ -53,6 +53,15 @@ body {
   margin: 0;
   padding: 0;
   overflow-x: hidden;
+   font-family:
+    "Noto Sans JP",
+    "Hiragino Kaku Gothic ProN",
+    "Yu Gothic",
+    sans-serif;
+}
+
+html {
+  font-size: 13px;
 }
 
 p {

@@ -85,17 +85,17 @@ const closeAbout = () => {
                     <p class="title stre-title">Strengths</p>
                     <div class="stre-list">
                         <div class="stre-item">
-                            <img :src="Stre1" :alt="強み１">
+                            <img :src="Stre1" :alt="強み3">
                             <h3 class="stre-h3">要望を整理し具体化する力</h3>
                             <p class="stre-desc">カスタマーサポートでの対応経験を通じて、ユーザーの状況や要望を整理し、課題を解決につながる形へ落とし込む力を培いました。</p>
                         </div>
                         <div class="stre-item">
-                            <img :src="Stre2" :alt="2">
+                            <img :src="Stre2" :alt="強み2">
                             <h3 class="stre-h3">ニーズを捉える提案力</h3>
-                            <p class="stre-desc">ユーザーの理解度や目的に合わせて伝え方や選択肢を工夫し、実現可能な提案を行ってきました。</p>
+                            <p class="stre-desc">ユーザーの理解度や目的を把握したうえで、複数の選択肢を提示しながら最適な対応方法を提案してきました。</p>
                         </div>
                         <div class="stre-item">
-                            <img :src="Stre3" :alt="強み１">
+                            <img :src="Stre3" :alt="強み3">
                             <h3 class="stre-h3">探究心と継続力</h3>
                             <p class="stre-desc">分からないことはそのままにせず、
                                 すぐに調べて理解を深めることを大切にしています。
@@ -166,7 +166,7 @@ const closeAbout = () => {
 <style scoped>
 #profile-text {
     margin: 0 auto;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
 }
 
 .pro-center {
@@ -261,7 +261,7 @@ const closeAbout = () => {
 
 .stre-h3 {
     width: 200px;
-    font-size: 1.3em;
+    font-size: 1.2em;
     margin: 0 auto;
     color: var(--color-sub2);
 }
@@ -269,7 +269,7 @@ const closeAbout = () => {
     color: var(--color-sub2);
     margin: 0 auto;
     text-align: left;
-    font-size: 1.2em;
+    font-size: 1.1em;
     max-width: 400px;
 }
 

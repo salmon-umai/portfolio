@@ -330,11 +330,11 @@ h2 {
 
 .tag {
   background-color: var(--color-tag1);
-  height: 20px;
   padding: 5px 10px;
   font-size: 1.3rem;
   border-radius: 20px;
   border: 1px solid var(--color-tag2);
+  line-height: 1;
 }
 
 .desc {
