@@ -80,10 +80,11 @@ p {
   padding-bottom: 20px;
   font-family: "DotGothic16", sans-serif;
   letter-spacing: 0.3em;
+  font-size: 1.9rem;
 }
 
 .title-sub {
-  font-size: 1.9rem;
+  font-size: 1.7rem;
   margin-left: 10px;
 }
 .right-group > * {
@@ -102,11 +103,7 @@ p {
 
 @media (max-width: 990px) {
   .section-title {
-    font-size: 20px;
     padding-left: 0;
-  }
-  .section-sub {
-    font-size: 15px;
   }
 }
 @media (max-width:390px) {

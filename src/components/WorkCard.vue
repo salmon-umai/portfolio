@@ -26,6 +26,8 @@ import { RouterLink } from 'vue-router';
 .section-title {
   text-align: right;
   margin-right: 30px;
+  font-size: 1.9rem;
+  margin-bottom: 0;
 }
 
 /* 戻るボタン */
