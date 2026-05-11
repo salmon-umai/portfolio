@@ -21,7 +21,7 @@ import RDD from '../assets/works/gridnote/RDD.png';
 
 
 const tags = [
-  'Vue', 'Node', 'DB接続', 'API設計', '認証', 'AI活用'
+  '自主制作', 'Vue', 'Node', 'DB接続', 'API設計', '認証', 'AI活用'
 ]
 
 //ImageModal

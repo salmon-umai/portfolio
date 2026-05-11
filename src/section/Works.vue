@@ -12,21 +12,21 @@ const works = [
         id: 1,
         title: 'タスク管理アプリ「GridNote」',
         thumbnail: taskThumnail,
-        tags: ['Vue', 'Node', 'DB接続', 'API設計', '認証', 'AI活用'],
+        tags: ['自主制作', 'Vue', 'Node', 'DB接続', 'API設計', '認証'],
         path: '/works/gridnote',
     },
     {
         id: 2,
         title: 'ポートフォリオサイト',
         thumbnail: portfolioThumnail,
-        tags: ['自主制作', 'Vue', 'AI活用'],
+        tags: ['自主制作', 'Vue'],
         path: '/works/portfolio',
     },
     {
         id: 3,
         title: 'ゲーム検索',
         thumbnail: gameThumnail,
-        tags: ['自主制作', 'Vue' ,'外部API','AI活用'],
+        tags: ['自主制作', 'Vue' ,'外部API'],
         path: '/works/game_search'
     },
     {

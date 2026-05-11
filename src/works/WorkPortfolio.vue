@@ -112,7 +112,8 @@ const ModalImages = [
             <div class="desc-card">
               <P class="desc-sub">
                 自身の経歴や制作物をまとめたポートフォリオサイトです。
-                趣味であるゲームの要素を取り入れ、海の中をイメージしたデザインで制作しました。</P>
+                趣味であるゲームの要素を取り入れ、海の中をイメージしたデザインで制作。
+                見た目だけでなく、ユーザーが迷わず操作できる導線を意識しました。</P>
             <button class="modal-img" @click="open = true">
              <span class="modal-span">▶</span>デザインラフ
             </button>
